@@ -16,7 +16,7 @@
 	
 	--dbackground:					url(https://i.imgur.com/eUvfLbw.jpg);
 	--dbackgroundsize:				cover;
-	--dblur:						4px;
+	--dblur:						0px;
 	--dbackdrop:					rgba(0,0,0,0.85);
 
 	--vtransparencycolor:			var(--transparencycolor,			var(--dtransparencycolor));
